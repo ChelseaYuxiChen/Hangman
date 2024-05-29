@@ -21,6 +21,9 @@ public class Dog {
     this.age = age;
     this.vaccinated = vaccinated;
     this.breed = breed;
+
+
+
   }
 
   /**
