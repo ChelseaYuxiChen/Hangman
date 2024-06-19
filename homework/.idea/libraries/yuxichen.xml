@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="yuxichen">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/chess/yuxichen.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/classroom_exercise.iml" filepath="$PROJECT_DIR$/.idea/classroom_exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cs5004-module04-linkedlist-activity/cs5004-module04-linkedlist-activity.iml" filepath="$PROJECT_DIR$/cs5004-module04-linkedlist-activity/cs5004-module04-linkedlist-activity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vector/vector.iml" filepath="$PROJECT_DIR$/vector/vector.iml" />
+    </modules>
+  </component>
+</project>
