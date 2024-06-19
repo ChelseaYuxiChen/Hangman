@@ -16,5 +16,6 @@
     <orderEntry type="library" name="lib8" level="project" />
     <orderEntry type="library" name="lib" level="project" />
     <orderEntry type="library" name="lib7" level="project" />
+    <orderEntry type="module" module-name="cs5004-module05-movies-comparing-activity" />
   </component>
 </module>

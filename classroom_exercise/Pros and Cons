@@ -1,0 +1,3 @@
+Pros: Composition pattern fits well with menu, which allows flexible addition, removal, and other operations.
+
+Cons: This menu is simple. Using composition pattern adds its complexity, since now we need to traverse several layers to obtain the Dessert menu.

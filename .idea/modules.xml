@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/homework/HW1/HW1.iml" filepath="$PROJECT_DIR$/homework/HW1/HW1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classroom_exercise/Head-First-Design-Patterns/Head-First-Design-Patterns.iml" filepath="$PROJECT_DIR$/classroom_exercise/Head-First-Design-Patterns/Head-First-Design-Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework/chess/chess.iml" filepath="$PROJECT_DIR$/homework/chess/chess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework/cs5004-matrix-starter-code/cs5004-matrix-starter-code.iml" filepath="$PROJECT_DIR$/homework/cs5004-matrix-starter-code/cs5004-matrix-starter-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classroom_exercise/cs5004-module05-movies-comparing-activity/cs5004-module05-movies-comparing-activity.iml" filepath="$PROJECT_DIR$/classroom_exercise/cs5004-module05-movies-comparing-activity/cs5004-module05-movies-comparing-activity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classroom_exercise/cs5004-module05-movies-comparing-activity-master/cs5004-module05-movies-comparing-activity-master.iml" filepath="$PROJECT_DIR$/classroom_exercise/cs5004-module05-movies-comparing-activity-master/cs5004-module05-movies-comparing-activity-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab/cs5004-recycling-items-sorting-system-student-template/cs5004-recycling-items-sorting-system-student-template.iml" filepath="$PROJECT_DIR$/lab/cs5004-recycling-items-sorting-system-student-template/cs5004-recycling-items-sorting-system-student-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab/shelter/shelter.iml" filepath="$PROJECT_DIR$/lab/shelter/shelter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab/test/test.iml" filepath="$PROJECT_DIR$/lab/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab/transmission/transmission.iml" filepath="$PROJECT_DIR$/lab/transmission/transmission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classroom_exercise/Head-First-Design-Patterns/untitled/untitled.iml" filepath="$PROJECT_DIR$/classroom_exercise/Head-First-Design-Patterns/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classroom_exercise/vector/vector.iml" filepath="$PROJECT_DIR$/classroom_exercise/vector/vector.iml" />
+    </modules>
+  </component>
+</project>
