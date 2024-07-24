@@ -1,0 +1,76 @@
+Diamond Solitaire Game:
+        O         
+      O O O       
+    O O O O O     
+  O O O O O O O   
+O O O O . O O O O 
+  O O O O O O O   
+    O O O O O     
+      O O O       
+        O         
+
+Making moves...
+        O         
+      O O O       
+    O O . O O     
+  O O O . O O O   
+O O O O O O O O O 
+  O O O O O O O   
+    O O O O O     
+      O O O       
+        O         
+
+        O         
+      O O O       
+    O O . O O     
+  O O O O O O O   
+O O O O . O O O O 
+  O O O . O O O   
+    O O O O O     
+      O O O       
+        O         
+
+        O         
+      O O O       
+    O O . O O     
+  O O O O O O O   
+O O O O O . . O O 
+  O O O . O O O   
+    O O O O O     
+      O O O       
+        O         
+
+Game over: false
+Marbles remaining: 37
+
+Cross Solitaire Game:
+    O O O     
+    O O O     
+O O O O O O O 
+O O O . O O O 
+O O O O O O O 
+    O O O     
+    O O O     
+
+Making moves...
+    O O O     
+    O O O     
+O O O O O O O 
+O O O O O O O 
+O O O . O O O 
+    O . O     
+    O O O     
+
+    O O O     
+    O O O     
+O O O . O O O 
+O O O . O O O 
+O O O O O O O 
+    O . O     
+    O O O     
+
+Error: Invalid move from (4, 5) to (4, 3)
+Game over: false
+Marbles remaining: 30
+
+Process finished with exit code 0

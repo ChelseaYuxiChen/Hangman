@@ -1,0 +1,32 @@
+Situation 1
+It ignores the Dependency inversion principles. It depends on concrete class "Point2D".
+
+
+Situation 2
+No, this implementation does not follow the SOLID principles.
+It ignores the Liskov Substitution Principle and Interface Segregation Principle.
+(1) The fish class throws an exception, which makes it impossible to replace Animal class with Fish class whithout the proram breaking.
+(2) Fish can't make noise, which meand fish class doesn't need to depend on the Animal class.
+
+
+Situation 3
+I would create a new interface, which has new methods "setColor" and "getColor".
+If any of current class(Circle, Rectangle, Ellipse and Square) can set color or get color, then modify this relevant class by extending the new interface.
+
+
+Situation 4
+No, we didn't break the SOLID principles.
+
+
+
+Situation 5
+Identification
+(1)Single Responsibility Principle
+The EmployeeManagementSystem class has more than one responsibility: adding different types of employees to the database and generating reports in different formats. 
+(2)Open/Closed Principle
+The EmployeeManagementSystem class is not open for extension but closed for modification.
+Redesign
+(1)Single Responsibility Principle
+Separate the responsibilities into different classes:A class for managing employees. A class for handling reports.
+(2)Open/Closed Principle
+Use interfaces/abstract classes to handle new types of employees and reports without modifying existing code.

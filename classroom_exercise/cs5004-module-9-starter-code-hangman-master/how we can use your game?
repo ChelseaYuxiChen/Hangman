@@ -1,0 +1,134 @@
+Welcome to Hangman!
+Use "?" to quit the game.
+  +---+
+  |   |
+      |
+      |
+      |
+      |
+=========
+Guess the word: _________
+Guesses remaining: 6
+Guess a letter: e
+  +---+
+  |   |
+      |
+      |
+      |
+      |
+=========
+Guess the word: _______e_
+Guesses remaining: 6
+Guess a letter: a
+  +---+
+  |   |
+  O   |
+      |
+      |
+      |
+=========
+Guess the word: _______e_
+Guesses remaining: 5
+Guess a letter: c
+  +---+
+  |   |
+  O   |
+  |   |
+      |
+      |
+=========
+Guess the word: _______e_
+Guesses remaining: 4
+Guess a letter: x
+  +---+
+  |   |
+  O   |
+ /|   |
+      |
+      |
+=========
+Guess the word: _______e_
+Guesses remaining: 3
+Guess a letter: p
+  +---+
+  |   |
+  O   |
+ /|   |
+      |
+      |
+=========
+Guess the word: _p_____e_
+Guesses remaining: 3
+Guess a letter: o
+  +---+
+  |   |
+  O   |
+ /|   |
+      |
+      |
+=========
+Guess the word: op_____e_
+Guesses remaining: 3
+Guess a letter: t
+  +---+
+  |   |
+  O   |
+ /|   |
+      |
+      |
+=========
+Guess the word: opt____e_
+Guesses remaining: 3
+Guess a letter: i
+  +---+
+  |   |
+  O   |
+ /|   |
+      |
+      |
+=========
+Guess the word: opti_i_e_
+Guesses remaining: 3
+Guess a letter: o
+The letter has already been guessed.
+  +---+
+  |   |
+  O   |
+ /|   |
+      |
+      |
+=========
+Guess the word: opti_i_e_
+Guesses remaining: 3
+Guess a letter: n
+  +---+
+  |   |
+  O   |
+ /|\  |
+      |
+      |
+=========
+Guess the word: opti_i_e_
+Guesses remaining: 2
+Guess a letter: a
+The letter has already been guessed.
+  +---+
+  |   |
+  O   |
+ /|\  |
+      |
+      |
+=========
+Guess the word: opti_i_e_
+Guesses remaining: 2
+Guess a letter: r
+  +---+
+  |   |
+  O   |
+ /|\  |
+      |
+      |
+=========
+Guess the word: opti_i_er
+Guesses remaining: 2
+Guess a letter: 

@@ -1,0 +1,14 @@
+1. The Benefits and challenges of the MVC 
+(1) benefits
+Easy to maintain. When you change codes in Views, you don't need to change the code in Control.
+Easy to reuse. When you want to expand the language of the system, you can easily reuse the original code.
+
+(2) challenges
+If you just want to implement a small project, MVC might make it more complex than it should be.
+
+
+2. What makes a good GUI?
+(1) It should be user friendly.
+(2) The labels and buttons should have meaningful names.
+(2) It should provide the correct feedback when the user gives input.
+
